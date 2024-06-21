@@ -1,0 +1,27 @@
+p {
+  text-align: justify;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+    color: #370050;
+}
+h1{
+    text-decoration: solid underline overline 2px;
+}
+a{
+    color: #17AB33;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+button{
+   font-style: italic;
+   font-weight: bold;
+   text-decoration: underline;
+}
+i{
+    color: #FE2B48 ;
+}

@@ -1,0 +1,21 @@
+h1,h2,h3,h4,h5,h6{
+   color: #314579;
+}
+h1{
+    text-decoration: dotted underline 1px;
+}
+ul{
+    list-style-type: square;
+   color:#910B6F ;
+   text-decoration: wavy;
+}
+p{
+    color: #0B4E91 ;
+    font-family: 'Trirong', sans-serif;
+}
+ol{
+    color: #022524;
+    font-family: 'Montserrat';
+    font-size: 13px;
+    font-weight: bold;
+}
